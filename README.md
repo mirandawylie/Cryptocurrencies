@@ -9,5 +9,5 @@ Technical analysis deliverables
 * Clustering Cryptocurrencies Using K-means
 * Visualizing Cryptocurrencies Results
 
-![pca_data.png](images/pca_data.png)
-![elbow_curve.png](images/elbow_curve.png)
+![pca_data.png](Images/pca_data.png)
+![elbow_curve.png](Images/elbow_curve.png)
